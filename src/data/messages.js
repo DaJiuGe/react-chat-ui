@@ -1,4 +1,5 @@
 import face1 from "assets/images/face-male-1.jpg";
+//eslint-disable-next-line
 export default [
   {
     id: 1,

@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 export default {
   primaryColor: "#4F9DDE",
   green: "#34D859",

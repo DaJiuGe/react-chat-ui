@@ -128,7 +128,7 @@ function Profile({
       <AlbumSection>
         <AlbumTitle>
           <Text type="secondary">相册 (31)</Text>
-          <a href="#">查看全部</a>
+          <a href="#top">查看全部</a>
         </AlbumTitle>
         <Album>
           <Photo src={photo1} alt="" />
